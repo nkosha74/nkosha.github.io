@@ -1,0 +1,11 @@
+.header{
+    background-image: url(../img/photo_2020-04-27_15-50-36.jpg);
+    min-height: 400px;
+    background-position: center;
+    background-size: cover;
+        
+}
+
+section{
+    margin-top: 20px;
+}
